@@ -8,4 +8,5 @@ Aqui irei postar diversos trabalhos e projetos que venho desenvolvendo/estudando
 - HTML
 - CSS
 - Javascript
+- Python
 - Git e Github
