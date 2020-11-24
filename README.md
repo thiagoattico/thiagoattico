@@ -8,6 +8,7 @@ Aqui irei postar diversos trabalhos e projetos que venho desenvolvendo/estudando
 - HTML
 - CSS
 - Javascript
-- Python
-- Java
+- C#
+- SQL Server
 - Git e Github
+
